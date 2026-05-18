@@ -1,0 +1,41 @@
+{
+  "roles": {
+    "leadvocals": "Hauptgesang",
+    "backvocals": "Chöre",
+    "guitar": "Gitarre",
+    "saxophone": "Saxophon",
+    "trumpet": "Trompete",
+    "trombone": "Posaune",
+    "keyboard": "Tastatur",
+    "bass": "Niedrig",
+    "doublebass": "Bass",
+    "percussion": "Schlagzeug",
+    "drums": "Batterie"
+  },
+  "eventsLink": "Erleben Sie uns live",
+  "listenLink": "Siehe die Diskographie",
+  "treeLink": "Finden Sie uns im Internet",
+  "events": "Kommende Veranstaltungen",
+  "pastEvents": "Vergangene Ereignisse",
+  "works": "Stücke",
+  "musicians": "Die Musiker",
+  "medias": "Durchschnitt",
+  "pastMembers": "Frühere Mitglieder",
+  "listenOnline": "Online anhören",
+  "seeMore": "mehr sehen",
+  "publishedOn": "Veröffentlicht am",
+  "author": "Autor",
+  "composer": "Komponist",
+  "learnMore": "Mehr erfahren",
+  "from": "von",
+  "to": "bis",
+  "since": "seit",
+  "close": "Schließen",
+  "lang": {
+    "en": "🇬🇧 Englisch",
+    "fr": "🇫🇷 Französisch",
+    "es": "🇪🇸 Spanische",
+    "de": "🇩🇪 Deutsch",
+    "it": "🇮🇹 Italienisch"
+  }
+}
