@@ -1,331 +1,191 @@
 {
-  "name": "NAC",
+  "name": "Rich'Art",
   "bio": {
-    "en": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "fr": "NAC est un groupe de Hard Rock/Rock Progressif, fondé en 1994 à Igny, France. La formation du groupe a souvent évoluée, autour de Pierrot et Elliot pour progressivement se consolider à partir de 2015. Ses éclectiques membres mettent leur interprétation au service de leur musique ; brute et sans détour.",
-    "es": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw.",
-    "de": "NAC is a Hard Rock/Progressive Rock band, founded in 1994 in Igny, France. Crafted around Pierrot and Elliot, the band's formation has often evolved to gradually consolidate from 2015. Its eclectic members put their interpretation at the service of their music; straightforward and raw."
+    "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, Rich'Art développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>Musicien expérimenté, il consacre sa carrière à explorer, fusionner et faire dialoguer différents styles musicaux, construisant au fil du temps une identité artistique singulière et ouverte sur le monde.<br><br>Au cours de son riche parcours, il a fondé et dirigé de nombreux groupes aux influences variées, naviguant avec aisance entre le rock, le jazz, le funk, les musiques du monde. Cette diversité musicale témoigne de sa curiosité artistique et de sa capacité à réunir des musiciens autour de projets authentiques et créatifs.<br><br>À travers ses enregistrements et concerts, Rich'Art met son talent au service de compositions originales et propose une musique vivante, sincère et généreuse, portée par l'improvisation, le partage et l'émotion.",
+    "en": "Singer-songwriter, performer, and multi-instrumentalist, Rich'Art has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>An experienced musician, he has dedicated his career to exploring, blending, and connecting different musical styles, gradually building a unique artistic identity that is both distinctive and open to the world.<br><br>Throughout his extensive career, he has founded and led numerous bands with diverse influences, moving effortlessly between rock, jazz, funk, and world music. This musical diversity reflects his artistic curiosity and his ability to bring musicians together around authentic and creative projects.<br><br>Through his recordings and live performances, Rich'Art puts his talent at the service of original compositions, offering music that is vibrant, sincere, and generous, driven by improvisation, sharing, and emotion.",
+    "es": "Cantautor, intérprete y multiinstrumentista, Rich'Art lleva muchos años desarrollando un universo musical rico y ecléctico, impulsado por una profunda pasión por la creación y los escenarios.<br><br>Músico experimentado, ha dedicado su carrera a explorar, fusionar y conectar distintos estilos musicales, construyendo con el tiempo una identidad artística única y abierta al mundo.<br><br>A lo largo de su extensa trayectoria, ha fundado y dirigido numerosos grupos de influencias diversas, moviéndose con soltura entre el rock, el jazz, el funk y las músicas del mundo. Esta diversidad musical refleja su curiosidad artística y su capacidad para reunir a músicos en torno a proyectos auténticos y creativos.<br><br>A través de sus grabaciones y conciertos, Rich'Art pone su talento al servicio de composiciones originales y ofrece una música viva, sincera y generosa, impulsada por la improvisación, el intercambio y la emoción.",
+    "de": "Als Singer-Songwriter, Interpret und Multiinstrumentalist entwickelt Rich'Art seit vielen Jahren ein reichhaltiges und vielseitiges musikalisches Universum, das von einer tiefen Leidenschaft für Kreativität und die Bühne geprägt ist.<br><br>Als erfahrener Musiker widmet er seine Karriere der Erforschung, Verschmelzung und Verbindung unterschiedlicher Musikstile und hat im Laufe der Zeit eine einzigartige künstlerische Identität aufgebaut, die zugleich unverwechselbar und weltoffen ist.<br><br>Im Verlauf seiner vielseitigen Laufbahn gründete und leitete er zahlreiche Bands mit unterschiedlichen Einflüssen und bewegte sich dabei mühelos zwischen Rock, Jazz, Funk und Weltmusik. Diese musikalische Vielfalt zeugt von seiner künstlerischen Neugier und seiner Fähigkeit, Musiker für authentische und kreative Projekte zusammenzubringen.<br><br>Mit seinen Aufnahmen und Konzerten stellt Rich'Art sein Talent in den Dienst eigener Kompositionen und bietet eine lebendige, ehrliche und großzügige Musik, die von Improvisation, Austausch und Emotion getragen wird."
   },
   "bandPicture": "Band.webp",
   "members": [
     {
-      "fullName": "David Béché",
-      "picture": "David.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      }, 
-      "roles": ["leadvocals"],
-      "range": "2015-"
-    }, {
-      "fullName": "Pierre Toïgo",
-      "picture": "Pierre.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["guitar"],
-      "range": "1994-"
-    }, {
-      "fullName": "Lionel Baudet",
-      "picture": "Lionel.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["guitar"],
-      "range": "1994-"
-    }, {
-      "fullName": "Arthur Beaulieu",
-      "picture": "Arthur.webp",
-      "pictureCredit": "Raphaël Beekmann",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["bass"],
-      "range": "2017-"
-    }, {
-      "fullName": "Tom Souty",
-      "picture": "Tom.webp",
+      "fullName": "Richard Braun",
+      "picture": "Richard.webp",
       "pictureCredit": "Arthur Beaulieu",
       "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2023-"
+        "fr": "Artiste auteur-compositeur-interprète et multi-instrumentiste, Rich'Art développe depuis de nombreuses années un univers musical riche et éclectique, nourri par une passion profonde pour la création et la scène.<br><br>Musicien expérimenté, il consacre sa carrière à explorer, fusionner et faire dialoguer différents styles musicaux, construisant au fil du temps une identité artistique singulière et ouverte sur le monde.<br><br>Au cours de son riche parcours, il a fondé et dirigé de nombreux groupes aux influences variées, naviguant avec aisance entre le rock, le jazz, le funk, les musiques du monde. Cette diversité musicale témoigne de sa curiosité artistique et de sa capacité à réunir des musiciens autour de projets authentiques et créatifs.<br><br>À travers ses enregistrements et concerts, Rich'Art met son talent au service de compositions originales et propose une musique vivante, sincère et généreuse, portée par l'improvisation, le partage et l'émotion.",
+        "en": "Singer-songwriter, performer, and multi-instrumentalist, Rich'Art has spent many years developing a rich and eclectic musical universe, driven by a deep passion for creativity and live performance.<br><br>An experienced musician, he has dedicated his career to exploring, blending, and connecting different musical styles, gradually building a unique artistic identity that is both distinctive and open to the world.<br><br>Throughout his extensive career, he has founded and led numerous bands with diverse influences, moving effortlessly between rock, jazz, funk, and world music. This musical diversity reflects his artistic curiosity and his ability to bring musicians together around authentic and creative projects.<br><br>Through his recordings and live performances, Rich'Art puts his talent at the service of original compositions, offering music that is vibrant, sincere, and generous, driven by improvisation, sharing, and emotion.",
+        "es": "Cantautor, intérprete y multiinstrumentista, Rich'Art lleva muchos años desarrollando un universo musical rico y ecléctico, impulsado por una profunda pasión por la creación y los escenarios.<br><br>Músico experimentado, ha dedicado su carrera a explorar, fusionar y conectar distintos estilos musicales, construyendo con el tiempo una identidad artística única y abierta al mundo.<br><br>A lo largo de su extensa trayectoria, ha fundado y dirigido numerosos grupos de influencias diversas, moviéndose con soltura entre el rock, el jazz, el funk y las músicas del mundo. Esta diversidad musical refleja su curiosidad artística y su capacidad para reunir a músicos en torno a proyectos auténticos y creativos.<br><br>A través de sus grabaciones y conciertos, Rich'Art pone su talento al servicio de composiciones originales y ofrece una música viva, sincera y generosa, impulsada por la improvisación, el intercambio y la emoción.",
+        "de": "Als Singer-Songwriter, Interpret und Multiinstrumentalist entwickelt Rich'Art seit vielen Jahren ein reichhaltiges und vielseitiges musikalisches Universum, das von einer tiefen Leidenschaft für Kreativität und die Bühne geprägt ist.<br><br>Als erfahrener Musiker widmet er seine Karriere der Erforschung, Verschmelzung und Verbindung unterschiedlicher Musikstile und hat im Laufe der Zeit eine einzigartige künstlerische Identität aufgebaut, die zugleich unverwechselbar und weltoffen ist.<br><br>Im Verlauf seiner vielseitigen Laufbahn gründete und leitete er zahlreiche Bands mit unterschiedlichen Einflüssen und bewegte sich dabei mühelos zwischen Rock, Jazz, Funk und Weltmusik. Diese musikalische Vielfalt zeugt von seiner künstlerischen Neugier und seiner Fähigkeit, Musiker für authentische und kreative Projekte zusammenzubringen.<br><br>Mit seinen Aufnahmen und Konzerten stellt Rich'Art sein Talent in den Dienst eigener Kompositionen und bietet eine lebendige, ehrliche und großzügige Musik, die von Improvisation, Austausch und Emotion getragen wird."
+      }, 
+      "roles": ["leadvocals", "guitar", "bass", "saxophone", "keyboard"],
+      "range": "2006-"
     }
   ],
-  "pastMembers": [
-    {
-      "fullName": "Sylvain Mallet",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    },
-    {
-      "fullName": "Christophe Boulogne",
-      "picture": "Sylvain.webp",
-      "pictureCredit": "Guillaume Crantz",
-      "bio": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      },
-      "roles": ["drums"],
-      "range": "2015-2022"
-    }
-  ],
+  "pastMembers": [],
   "events": [
     {
-      "title": "NAC & Roll",
-      "picture": "Event1.webp",
-      "date": "2030-01-01",
-      "place": "Tour Eiffel - Paris",
-      "url": "https://messe-basse-production.com",
+      "title": "Éphémère'n'Roll",
+      "picture": "MBPEVT027.webp",
+      "date": "2026-01-17",
+      "place": "Le Tremplin, Châteaufort",
+      "url": "https://www.facebook.com/events/748947891514829",
       "description": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
-      }    
-    }, {
-      "title": "Rock & NAC",
-      "picture": "Event2.webp",
-      "date": "2010-01-01",
-      "place": "Tour Eiffel - Paris",
-      "url": "https://messe-basse-production.com",
-      "description": {
-        "en": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "fr": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "de": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
-        "es": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        "fr": "<p>Un jour. Sept groupes. Des riffs, des rires et des rencontres. Le 17 janvier 2026, Châteaufort devient la capitale du gros son le temps d'une journée. Bienvenue à Éphémère'n'Roll — là où la musique vit, le temps d'un instant.</p>",
+        "en": "<p>One day. Seven bands. Riffs, laughter, and new connections. On January 17, 2026, Châteaufort becomes the capital of heavy sound for a single day. Welcome to Éphémère'n'Roll — where music comes alive, if only for a moment.</p>"
       }    
     }
   ],
   "releases": [
     {
-      "title": "Dystopie",
-      "artist": "NAC",
-      "cover": "Dystopie.webp",
-      "audio": "DystopieExtract.mp3",
-      "date": "2021-11-09",
-      "duration": "46:30",
+      "title": "Spiritualité",
+      "artist": "Rich'Art",
+      "cover": "Spirit.webp",
+      "audio": "SpiritExtract.mp3",
+      "date": "2026-06-12",
+      "duration": "58:06",
       "label": "Messe Basse Production",
       "labelLink": "https://messe-basse-production.com/",
       "showOnMainPage": true,
       "links": [
         {
           "type": "spotify",
-          "url": "https://open.spotify.com/album/44p4oWCfMZKX9HJt64ncoj"
+          "url": "https://open.spotify.com/album/0ZVdWXxta44Pgn9RVIbN1I"
         }, {
           "type": "apple",
-          "url": "https://music.apple.com/album/dystopie/1588780184"
+          "url": "https://music.apple.com/us/album/spiritualit%C3%A9/6775808889"
         }, {
           "type": "amazon",
-          "url": "https://music.amazon.fr/albums/B09HRC1LJS"
+          "url": "https://music.amazon.fr/albums/B0H3LD8NBJ"
         }, {
           "type": "deezer",
-          "url": "https://www.deezer.com/fr/album/263543602"
+          "url": "https://www.deezer.com/album/995866491"
         }, {
           "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=c8WVsM9SDgc&list=PLp5D05IpZHwLKjS1HYOAMvtdc3rFaLFze"
+          "url": "https://www.youtube.com/watch?v=StthjsqojGg&list=PLp5D05IpZHwKfzvW8lnxk0wDLG75ZspR7"
         }, {
           "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/dystopie"
+          "url": "https://rich-art.bandcamp.com/album/spiritualit"
         }
       ],
       "moreLinks": [
         {
           "type": "tidal",
-          "url": "https://listen.tidal.com/album/200014684"            
+          "url": "https://tidal.com/album/529689607"            
         }, {
           "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Dystopie"            
+          "url": "https://genius.com/albums/Richart-fra/Spiritualite"            
         }, {
           "type": "discogs",
-          "url": "https://www.discogs.com/release/20399056-NAC-Dystopie"            
+          "url": "https://www.discogs.com/release/37402530"            
         }, {
           "type": "musicbrainz",
-          "url": "https://musicbrainz.org/release/39049941-c348-4aeb-b86b-a5af7093d3ea"            
+          "url": "https://musicbrainz.org/release/ee42dae1-9e0e-481b-bd1a-180112336fe7"            
         }
       ],
       "tracks": [
         {
-          "title": "Crad' Bar Boogie",
-          "duration": "6:48",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Bad Dreams",
-          "duration": "6:08",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché, Philippe Dromard"
-        },
-        {
-          "title": "Dystopie",
-          "duration": "6:12",
-          "composer": "Philippe Dromard, Pierre Toïgo",
-          "author": "Arthur Beaulieu"
-        },
-        {
-          "title": "Nature Humaine",
-          "duration": "6:03",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Arthur Beaulieu, Lionel Baudet"
-        },
-        {
-          "title": "Amor Ciego",
-          "duration": "6:23",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Tramp",
-          "duration": "6:43",
-          "composer": "Arthur Beaulieu, Pierre Toïgo",
-          "author": "David Béché"
-        },
-        {
-          "title": "Résilience (feat. Tom)",
-          "duration": "8:09",
-          "composer": "Pierre Toïgo",
-          "author": "David Béché"
-        }
-      ]
-    },
-    {
-      "title": "Nature Humaine Origins",
-      "artist": "NAC",
-      "cover": "Nature.webp",
-      "audio": "NatureExtract.mp3",
-      "date": "2022-03-03",
-      "duration": "8:14",
-      "label": "Messe Basse Production",
-      "labelLink": "https://messe-basse-production.com/",
-      "showOnMainPage": true,
-      "links": [
-        {
-          "type": "spotify",
-          "url": "https://open.spotify.com/album/1opR5BwZcZDSMZIsILnBSJ"
+          "title": "Amour Et Compassion",
+          "duration": "5:46",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "apple",
-          "url": "https://music.apple.com/album/nature-humaine-origins-feat-karine-fernel-single/1616262749"
+          "title": "Méditation",
+          "duration": "5:18",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "amazon",
-          "url": ""
+          "title": "Doucement",
+          "duration": "6:11",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "deezer",
-          "url": ""
+          "title": "Boudhisme Tibétain",
+          "duration": "3:56",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "youtube",
-          "url": "https://www.youtube.com/watch?v=aZJlt92yi1o&list=PLp5D05IpZHwJ3H5UscRcUlvZptZc3p1lM"
+          "title": "Quiétude De L'Esprit",
+          "duration": "5:07",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "bandcamp",
-          "url": "https://nacband.bandcamp.com/album/nature-humaine-origins-single"
-        }
-      ],
-      "moreLinks": [
-        {
-          "type": "tidal",
-          "url": ""            
+          "title": "Prière Pour La Paix",
+          "duration": "5:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "genius",
-          "url": "https://genius.com/albums/Nac-fra/Nature-humaine-origins"            
+          "title": "Étrange",
+          "duration": "4:55",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "discogs",
-          "url": "https://www.discogs.com/release/22272463-NAC-Nature-Humaine-Origins"            
+          "title": "Où Est Le Chemin De La Paix?",
+          "duration": "3:33",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }, {
-          "type": "musicbrainz",
-          "url": ""            
-        }
-      ],
-      "tracks": [
-        {
-          "title": "La Nature Humaine (feat. Karine Fernel)",
-          "duration": "8:14",
-          "composer": "Lionel Baudet, Pierre Toïgo",
-          "author": "Lionel Baudet"
+          "title": "Présence",
+          "duration": "4:29",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Joie S'Éveille",
+          "duration": "4:56",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Frère",
+          "duration": "4:12",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Considération",
+          "duration": "3:47",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
         }
       ]
     }
   ],
-  "medias": [
-    {
-      "type": "iframe",
-      "title": "NAC – Dystopie Live (Concert Complet)",
-      "link": "https://tube.mycozy.space/videos/embed/5a713c21-3093-457f-be5a-1951ea6c4ab0"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample1.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample2.webp"
-    }, {
-      "type": "image",
-      "link": "./assets/img/artists/sample3.webp"
-    }
-  ],
+  "medias": [],
   "links": [
     {
       "type": "spotify",
       "name": "Spotify",
-      "url": "https://open.spotify.com/artist/71YUgouAzYQ9NYerniOasC/"
+      "url": "https://open.spotify.com/artist/2VXxfl9gjvDVDCgxiM3nm0"
     }, {
       "type": "apple",
       "name": "Apple Music",        
-      "url": "https://music.apple.com/artist/nac/1588180391"
+      "url": "https://music.apple.com/artist/richart/1753777691"
     }, {
       "type": "deezer",
       "name": "Deezer",
-      "url": "https://www.deezer.com/artist/161217332"
+      "url": "https://www.deezer.com/artist/211511417"
     }, {
       "type": "amazon",
       "name": "Amazon Music",
-      "url": "https://music.amazon.fr/artists/B0933N2ZTY/nac/"
+      "url": "https://music.amazon.fr/artists/B0H2FDRJ5D/"
     }, {
       "type": "tidal",
       "name": "Tidal",
-      "url": "https://tidal.com/artist/31364715"
+      "url": "https://tidal.com/artist/79896047"
     }, {
       "type": "bandcamp",
       "name": "Bandcamp",
-      "url": "https://nacband.bandcamp.com/"
+      "url": "https://rich-art.bandcamp.com/"
     }, {
       "type": "discogs",
       "name": "Discogs",
-      "url": "https://www.discogs.com/artist/10054414-NAC-7/"
+      "url": "https://www.discogs.com/artist/17789292"
     }, {
       "type": "genius",
       "name": "Genius",
-      "url": "https://genius.com/artists/Nac-fra/"
+      "url": "https://genius.com/artists/Richart-fra"
     }, {
       "type": "musicbrainz",
       "name": "MusicBrainz",
-      "url": "https://musicbrainz.org/artist/3e3ccb24-a46b-42ee-b7d4-b87ed2d75333"
+      "url": "https://musicbrainz.org/artist/3b4a1134-d188-4baa-bf77-afc2d30727e7"
     }
   ],
   "styles": {

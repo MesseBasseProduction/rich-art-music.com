@@ -1,7 +1,7 @@
 FROM node:18-alpine
 
-RUN mkdir /band_website
-WORKDIR /band_website
+RUN mkdir /rich-art-music.com
+WORKDIR /rich-art-music.com
 
 RUN apk add --update --virtual .tmp-deps python3 make g++ && \
     rm -rf /var/cache/apk/*

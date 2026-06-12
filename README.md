@@ -1,3 +1,7 @@
+# rich-art-music.com
+
+The official website for the band Rich'Art. This website is based on the template https://github.com/MesseBasseProduction/BandWebsite/. Here is the README associated to BandWebsite :
+
 # BandWebsite
 
 ![](https://badgen.net/badge/version/1.2.2/blue)

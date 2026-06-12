@@ -1,7 +1,7 @@
 {
-  "name": "bandwebsite",
+  "name": "rich-art-music.com",
   "version": "1.2.2",
-  "description": "A template to make a band or artist website ",
+  "description": " Rich'Art band official website ",
   "keywords": [],
   "main": "src/bw.js",
   "scripts": {
@@ -9,13 +9,13 @@
     "watch": "webpack --watch --config webpack/webpack.dev.js",
     "start": "node src/server.js"
   },
-  "homepage": "https://github.com/MesseBasseProduction/BandWebsite/README.md",
+  "homepage": "https://github.com/MesseBasseProduction/rich-art-music.com/README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MesseBasseProduction/BandWebsite.git"
+    "url": "git+https://github.com/MesseBasseProduction/rich-art-music.com.git"
   },
   "bugs": {
-    "url": "https://github.com/MesseBasseProduction/BandWebsite/issues"
+    "url": "https://github.com/MesseBasseProduction/rich-art-music.com/issues"
   },
   "author": "ArthurBeaulieu",
   "license": "GPL-3.0",

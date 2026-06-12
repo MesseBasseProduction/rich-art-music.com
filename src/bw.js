@@ -3,7 +3,7 @@ import './bw.scss';
 
 
 const APP_VERSION = '1.2.2';
-const APP_NAME = 'BandWebsite';
+const APP_NAME = 'rich-art-music.com';
 const DEBUG = false;
 
 
