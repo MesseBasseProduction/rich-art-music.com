@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": "Vivre En Harmonie",
+      "artist": "Rich'Art",
+      "cover": "Harmonie.webp",
+      "audio": "harmonieExtract.mp3",
+      "date": "2026-06-19",
+      "duration": "49:27",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6wGgNuIOvvYye9BOVx3KOy"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/vivre-en-harmonie/6771682732"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H2FD8H3W"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/album/987215951"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=hg2kVDKzNTg&list=PLp5D05IpZHwJcjJA41DqW0X8UInnSKWmh"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/vivre-en-harmonie"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/526516647"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Vivre-en-harmonie"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37634460"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/bb77a605-5241-4e33-8d31-39f321531098"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "J'Ai Du Pain Sur La Planche",
+          "duration": "3:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Fanfan Se Marie",
+          "duration": "4:44",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Excès De Tristesse",
+          "duration": "3:28",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Vivre En Harmonie",
+          "duration": "4:37",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Après Un Long Voyage",
+          "duration": "4:16",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Terre De Libertés",
+          "duration": "4:17",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Le Soleil Brille Sur Nos Têtes",
+          "duration": "2:45",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Dans Le Cœur Du Monde",
+          "duration": "5:03",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Dame Nature",
+          "duration": "5:18",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "L'Oiseau",
+          "duration": "4:35",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Si Ce Soir Tu T'Ennuies",
+          "duration": "3:44",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Je Veux Chanter La France",
+          "duration": "2:44",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
       "title": "Spiritualité",
       "artist": "Rich'Art",
       "cover": "Spirit.webp",
