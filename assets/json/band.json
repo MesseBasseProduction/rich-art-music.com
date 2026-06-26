@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": "Tout Autour De La Terre",
+      "artist": "Rich'Art",
+      "cover": "Terre.webp",
+      "audio": "TerreExtract.mp3",
+      "date": "2026-06-26",
+      "duration": "49:27",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/70NwhGx7kW3OPKgXiJo7Hq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/tout-autour-de-la-terre/6781675836"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5VR9SHC"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008658111"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=oKkrHSsdyLc&list=PLp5D05IpZHwKHImwh0nckYj_bohH2Sk8V"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/tout-autour-de-la-terre"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534504603"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Tout-autour-de-la-terre"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37715298"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/34a9379a-27a4-4b7d-bf67-208407bc78ee"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Tout Autour De La Terre",
+          "duration": "4:45",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "J'Ai Le Cœur Qui Bat",
+          "duration": "5:33",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Je Reste Cool",
+          "duration": "5:18",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Nuit Je M'Envole",
+          "duration": "3:46",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Le Prince De Mercure",
+          "duration": "7:08",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Demoiselle De La Rochelle",
+          "duration": "3:56",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Elle",
+          "duration": "6:17",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "En Avignon",
+          "duration": "4:28",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Être Libre",
+          "duration": "6:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Donner Tout Son Amour",
+          "duration": "5:40",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Raison S'En Va",
+          "duration": "4:08",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Toi",
+          "duration": "4:05",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
       "title": "Vivre En Harmonie",
       "artist": "Rich'Art",
       "cover": "Harmonie.webp",
