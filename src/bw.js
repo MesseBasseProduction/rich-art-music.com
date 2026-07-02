@@ -142,7 +142,7 @@ class BW {
     document.querySelector('#events-link').innerHTML = `<img src="./assets/img/controls/mic.svg" alt="events">${this._nls.eventsLink}`;
     document.querySelector('#tree-link').innerHTML = `<img src="./assets/img/controls/find.svg" alt="listen">${this._nls.treeLink}`;
     document.querySelector('#works-section').innerHTML = this._nls.works;
-    document.querySelector('#musicians-section').innerHTML = this._nls.musicians;
+    //document.querySelector('#musicians-section').innerHTML = this._nls.musicians;
     document.querySelector('#medias-section').innerHTML = this._nls.medias;
     document.querySelector('#current-year').innerHTML = new Date().getFullYear();
 
@@ -210,6 +210,7 @@ class BW {
 
     if (this._band.members.length > 0) {
       // Iterate through band members
+      /*
       for (let i = 0; i < this._band.members.length; ++i) {
         const container = document.createElement('DIV');
         container.dataset.artist = this._band.members[i].fullName;
@@ -226,6 +227,7 @@ class BW {
         container.appendChild(label);
         document.getElementById('artists').appendChild(container);
       }
+      */
     } else {
       document.querySelector('#works-section').parentNode.removeChild(document.querySelector('#works-section'));
       document.querySelector('#releases').parentNode.removeChild(document.querySelector('#releases'));
@@ -234,6 +236,7 @@ class BW {
     
     // Iterate through past band members if any
     if (this._band.pastMembers.length > 0) {
+      /*
       const container = document.createElement('DIV');
       container.classList.add('past-members');
       const label = document.createElement('P');
@@ -244,6 +247,7 @@ class BW {
       container.addEventListener('click', this._pastMembersModal.bind(this, this._band.pastMembers));
       container.appendChild(label);
       document.getElementById('artists').appendChild(container);
+      */
     }
 
     if (this._band.medias.length > 0) {
