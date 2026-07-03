@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": " Sur Les Montagnes D'Himalaya ",
+      "artist": "Rich'Art",
+      "cover": "Montagnes.webp",
+      "audio": "MontagnesExtract.mp3",
+      "date": "2026-07-03",
+      "duration": "1:00:40",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3AGUlpQ0yeRJwNCOjbvOtr"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/sur-les-montagnes-dhimalaya/6783794214"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H6FT6913"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1012347911"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=ixWO9vfpywA&list=PLer-vwGp4imc"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/sur-les-montagnes-dhimalaya"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/535863336"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Sur-les-montagnes-dhimalaya"            
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37781454"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/921b829c-4bfc-4e44-94b2-c39374ebb952"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Sous Le Réverbère Du Bonheur",
+          "duration": "5:40",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Vie En Bleue",
+          "duration": "3:00",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "De Rome À Singapour",
+          "duration": "5:16",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Je Vis Dans Un Rêve",
+          "duration": "5:49",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "L'Île Magique",
+          "duration": "5:09",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Chanteuse De Blues",
+          "duration": "3:02",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Recontre D'Un Soir",
+          "duration": "6:24",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Le Reflet Des Pensées",
+          "duration": "4:13",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Les Amishs",
+          "duration": "5:39",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Même Quand Le Soleil Se Lève",
+          "duration": "3:55",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Fous Moi La Paix",
+          "duration": "4:35",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Sur Les Montagnes D'Himalaya",
+          "duration": "7:53",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
       "title": "Tout Autour De La Terre",
       "artist": "Rich'Art",
       "cover": "Terre.webp",
