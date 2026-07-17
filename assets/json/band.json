@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": "la Magie De La Vie",
+      "artist": "Rich'Art",
+      "cover": "Magie.webp",
+      "audio": "MagieExtract.mp3",
+      "date": "2026-07-17",
+      "duration": "54:37",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1hobX8JZ9VgSuzpekTugy0"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/la-magie-de-la-vie/6781048300"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5L1LYGJ"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1007067711"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=w1-CJ1weklk&list=PLKBu1TUUvO8Y"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/la-magie-de-la-vie"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/533953831"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/La-magie-de-la-vie"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37902726"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/d97a2f57-6f78-4230-a345-6b397cdc5f0d"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "J'Aime J'Aime J'Aime",
+          "duration": "4:33",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Magie De La Vie",
+          "duration": "4:38",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Terre S'Est Mise À Tourner",
+          "duration": "4:04",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Comme Un Arc-En-Ciel",
+          "duration": "3:54",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Funky Ou Groovy",
+          "duration": "4:25",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Emmène-Moi Avec Toi",
+          "duration": "4:56",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Petite Marine",
+          "duration": "3:56",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Groove Groove",
+          "duration": "5:01",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "C'Est L'Amour",
+          "duration": "4:48",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "C'Est Mieux Ainsi",
+          "duration": "6:41",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Les Ermites Mystiques",
+          "duration": "4:08",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Zen Zen Zen",
+          "duration": "3:59",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
       "title": "Sérénité",
       "artist": "Rich'Art",
       "cover": "Sérénité.webp",
