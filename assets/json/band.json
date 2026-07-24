@@ -40,7 +40,116 @@
   ],
   "releases": [
     {
-      "title": "la Magie De La Vie",
+      "title": "Paris Après Minuit",
+      "artist": "Rich'Art",
+      "cover": "Paris.webp",
+      "audio": "ParisExtract.mp3",
+      "date": "2026-07-24",
+      "duration": "51:00",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/3gSvWY6elehhDhjUDPnsbz"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/paris-apr%C3%A8s-minuit/6781739386"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H5XBQDCN"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1008830561"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=sJtuQE_evks&list=PLfvHVby_INO4"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/paris-apr-s-minuit"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/534593200"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Paris-apres-minuit"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/37954002"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/b7239b6a-2e51-4877-acf6-4b8bea75d5f3"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "En Retard",
+          "duration": "5:29",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Jazzy Mais Funky",
+          "duration": "3:45",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Simplement Pour Toi",
+          "duration": "2:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "L'Équilibriste",
+          "duration": "4:21",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Connexion",
+          "duration": "4:20",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Le Bois De L'Étang",
+          "duration": "5:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Sentiment Amoureux",
+          "duration": "3:00",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Paris Après Minuit",
+          "duration": "4:18",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Discrétion",
+          "duration": "4:00",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "L'Air De Rien",
+          "duration": "5:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "La Versaillaise",
+          "duration": "4:46",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Très En Retard",
+          "duration": "2:27",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
+      "title": "La Magie De La Vie",
       "artist": "Rich'Art",
       "cover": "Magie.webp",
       "audio": "MagieExtract.mp3",
