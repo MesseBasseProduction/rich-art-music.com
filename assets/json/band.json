@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": "Un Voyage Sans Retour",
+      "artist": "Rich'Art",
+      "cover": "Voyage.webp",
+      "audio": "VoyageExtract.mp3",
+      "date": "2026-08-07",
+      "duration": "01:08:11",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/6ws3ZIcv0k6vvnAoxt3Fr2"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/un-voyage-sans-retour/6789552236"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H8CX46VF"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1025748182"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=OKTXa6T-wlQ&list=PLUBzXpiVoUtA"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/un-voyage-sans-retour"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/541862335"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Un-voyage-sans-retour"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057433"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/760c6c86-2a42-419c-99a6-4d956c594ead"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Grosse Marcelle",
+          "duration": "3:33",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Terre Sans Frontières",
+          "duration": "5:49", 
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Hasta La Vista",
+          "duration": "4:27",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Fais Comme Moi",
+          "duration": "4:16",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Trop Rock'n'Roll Pour Se Marier",
+          "duration": "4:24",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Spacemaker",
+          "duration": "8:29",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "L'Âge De Paix",
+          "duration": "5:04",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Boogie Woogie And Grolles",
+          "duration": "5:30",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Sortir De La Norme",
+          "duration": "5:48",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Y Manquerait Plus Qu'on Travaille",
+          "duration": "4:57",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Une Romance De France",
+          "duration": "9:04",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }, {
+          "title": "Un Voyage Sans Retour",
+          "duration": "6:50",
+          "composer": "Rich'Art",
+          "author": "Rich'Art"
+        }
+      ]
+    }, {
       "title": "Welcome To The Future",
       "artist": "Rich'Art",
       "cover": "Future.webp",
