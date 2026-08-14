@@ -40,6 +40,115 @@
   ],
   "releases": [
     {
+      "title": "Électron Libre",
+      "artist": "Rich'Art",
+      "cover": "Électron.webp",
+      "audio": "ÉlectronExtract.mp3",
+      "date": "2026-08-14",
+      "duration": "52:21",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": "https://open.spotify.com/album/1nFVgMqGlwepIlJUGhCOQq"
+        }, {
+          "type": "apple",
+          "url": "https://music.apple.com/us/album/%C3%A9lectron-libre/6791536154"
+        }, {
+          "type": "amazon",
+          "url": "https://music.amazon.fr/albums/B0H94D3CHX"
+        }, {
+          "type": "deezer",
+          "url": "https://www.deezer.com/us/album/1030522352"
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=PSDo4iWXFd4&list=PLTsgUU_vIGs8&pp=sAgC"
+        }, {
+          "type": "bandcamp",
+          "url": "https://rich-art.bandcamp.com/album/lectron-libre"
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": "https://tidal.com/album/543614896"
+        }, {
+          "type": "genius",
+          "url": "https://genius.com/albums/Richart-fra/Electron-libre"
+        }, {
+          "type": "discogs",
+          "url": "https://www.discogs.com/release/38057487"
+        }, {
+          "type": "musicbrainz",
+          "url": "https://musicbrainz.org/release/72578e4b-0658-4531-b9f9-57e4092c4f8f"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Électron Libre",
+          "duration": "2:36",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "J'Aime Passer Du Temps Avec Toi",
+          "duration": "7:27",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Atomes Crochus",
+          "duration": "4:20",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "À Contre Courant",
+          "duration": "3:23",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Coup De Foudre",
+          "duration": "4:24",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Y'A De L'Électricité Dans L'Air",
+          "duration": "3:44",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Infiniment",
+          "duration": "4:08",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Blues Quantique",
+          "duration": "3:10",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Vases Communiquant",
+          "duration": "5:37",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Tête En L'Air",
+          "duration": "5:03",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "L'Âme Y Hante Mon Coeur",
+          "duration": "2:59",
+          "composer": "Rich'Art",
+          "author": ""
+        }, {
+          "title": "Particules D'Amour",
+          "duration": "4:53",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Un Voyage Sans Retour",
       "artist": "Rich'Art",
       "cover": "Voyage.webp",
