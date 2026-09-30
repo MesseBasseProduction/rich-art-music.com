@@ -40,6 +40,60 @@
   ],
   "releases": [
     {
+      "title": "Life Is A Gift",
+      "artist": "Rich'Art",
+      "cover": "Gifg.webp",
+      "audio": "GiftExtract.mp3",
+      "date": "2026-09-25",
+      "duration": "05:29",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=V_I4YBrWEEo"
+        }, {
+          "type": "bandcamp",
+          "url": ""
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Planet Is A Gift",
+          "duration": "5:29",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Planet Rock",
       "artist": "Rich'Art",
       "cover": "Planet.webp",
