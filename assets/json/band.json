@@ -40,6 +40,60 @@
   ],
   "releases": [
     {
+      "title": "Hard Worker",
+      "artist": "Rich'Art",
+      "cover": "Worker.webp",
+      "audio": "WorkerExtract.mp3",
+      "date": "2026-10-02",
+      "duration": "05:28",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=mEAalbe3LHk"
+        }, {
+          "type": "bandcamp",
+          "url": ""
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Hard Worker",
+          "duration": "5:28",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Life Is A Gift",
       "artist": "Rich'Art",
       "cover": "Gift.webp",
@@ -87,7 +141,7 @@
       ],
       "tracks": [
         {
-          "title": "Planet Is A Gift",
+          "title": "Life Is A Gift",
           "duration": "5:29",
           "composer": "Rich'Art",
           "author": ""
