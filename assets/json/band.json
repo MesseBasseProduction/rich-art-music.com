@@ -40,6 +40,60 @@
   ],
   "releases": [
     {
+      "title": "Asia",
+      "artist": "Rich'Art",
+      "cover": "Asia.webp",
+      "audio": "AsiaExtract.mp3",
+      "date": "2026-10-23",
+      "duration": "04:30",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=-HMU4aD_mLA"
+        }, {
+          "type": "bandcamp",
+          "url": ""
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Asia",
+          "duration": "4:30",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Tres Hombres From Texas",
       "artist": "Rich'Art",
       "cover": "Texas.webp",
