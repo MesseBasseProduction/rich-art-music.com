@@ -40,6 +40,60 @@
   ],
   "releases": [
     {
+      "title": "Hip Hop On The Moon",
+      "artist": "Rich'Art",
+      "cover": "Hip.webp",
+      "audio": "HipExtract.mp3",
+      "date": "2026-10-30",
+      "duration": "05:27",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=E_1yZb4xov0"
+        }, {
+          "type": "bandcamp",
+          "url": ""
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Hip Hop On The Moon",
+          "duration": "5:27",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Asia",
       "artist": "Rich'Art",
       "cover": "Asia.webp",
