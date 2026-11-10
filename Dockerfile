@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:24-alpine
 
 RUN mkdir /rich-art-music.com
 WORKDIR /rich-art-music.com

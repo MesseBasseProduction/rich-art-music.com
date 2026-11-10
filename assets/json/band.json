@@ -40,6 +40,60 @@
   ],
   "releases": [
     {
+      "title": "Big Band Blues",
+      "artist": "Rich'Art",
+      "cover": "Big.webp",
+      "audio": "BigExtract.mp3",
+      "date": "2026-11-06",
+      "duration": "03:28",
+      "label": "Messe Basse Production",
+      "labelLink": "https://messe-basse-production.com/",
+      "showOnMainPage": true,
+      "links": [
+        {
+          "type": "spotify",
+          "url": ""
+        }, {
+          "type": "apple",
+          "url": ""
+        }, {
+          "type": "amazon",
+          "url": ""
+        }, {
+          "type": "deezer",
+          "url": ""
+        }, {
+          "type": "youtube",
+          "url": "https://www.youtube.com/watch?v=QYpFfXAGfIQ"
+        }, {
+          "type": "bandcamp",
+          "url": ""
+        }
+      ],
+      "moreLinks": [
+        {
+          "type": "tidal",
+          "url": ""
+        }, {
+          "type": "genius",
+          "url": ""
+        }, {
+          "type": "discogs",
+          "url": ""
+        }, {
+          "type": "musicbrainz",
+          "url": ""
+        }
+      ],
+      "tracks": [
+        {
+          "title": "Big Band Blues",
+          "duration": "3:28",
+          "composer": "Rich'Art",
+          "author": ""
+        }
+      ]
+    }, {
       "title": "Hip Hop On The Moon",
       "artist": "Rich'Art",
       "cover": "Hip.webp",
